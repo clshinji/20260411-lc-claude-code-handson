@@ -1,0 +1,12 @@
+# 非公開ファイル（後で公開するものは個別に除外する）
+.env
+.DS_Store
+.claude/settings.local.json
+.claude/.DS_Store
+demo-prompts.md
+demo-site/
+event-description.txt
+offkai-info.txt
+plan.txt
+skills-lock.json
+slides/
