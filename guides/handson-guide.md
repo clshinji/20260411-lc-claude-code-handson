@@ -113,8 +113,7 @@ claude
 
 無事に起動ができると、この様な画面が表示されます↓
 
-<!-- TODO: ここに Claude Code を起動した後の画像を添付する -->
-![](../assets/hello-claude-code.jpg)
+![](../assets/hello-claude-code.png)
 
 それでは、試しに **Claude Code** に話しかけてみましょう！
 
@@ -124,8 +123,7 @@ claude
 
 **Claude Code** から、何かしら返信があれば成功です 🎉🎉🎉🎉🎉🎉
 
-<!-- TODO: ここに Claude Code にテストプロンプトを送った後の画像を添付する -->
-![](../assets/say-hello-claude-code.jpg)
+![](../assets/say-hello-claude-code.png)
 
 時間が余った方は、もう少し **Claude Code** との会話を楽しんでみてください。
 
@@ -379,6 +377,8 @@ Claude Code をもっと上手に使うためのコツを紹介します。
 
 > 💡 試しに「自己紹介のWebページを作って」とお願いしてみましょう！
 
+![](../assets/claude-app-code.png)
+
 ## Claude デスクトップアプリで「Cowork」を試してみましょう
 
 **Cowork** は、Claude Code のさらに進化版のような機能です。
@@ -394,6 +394,7 @@ Claude Code との違いは、**途中の確認なしに、最初から最後ま
 >
 > ⚠️ Cowork はまだ研究段階（research preview）の機能です。うまくいかないこともあるので、気軽に試してみましょう！
 
+![](../assets/claude-app-cowork.png)
 
 ## (時間があれば) 自由に Claude Code / Cowork を試してみましょう
 
