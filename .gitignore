@@ -14,3 +14,8 @@ slides/
 
 _tmp/
 _admin/
+
+# ビルド中間生成物 (scripts/build.sh で自動生成)
+build/
+dist/review/
+dist/review-v2/
